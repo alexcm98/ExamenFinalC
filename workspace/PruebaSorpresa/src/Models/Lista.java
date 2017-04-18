@@ -96,13 +96,6 @@ public int setIndex(int i){
 }
 
 
-
-
-
-
-
-
-
 public void aumentar(){
 
 		
